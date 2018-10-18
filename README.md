@@ -292,3 +292,5 @@ Pull requests are welcome. If you want to change the API or do something big it 
 ---
 
 **[MIT Licensed](https://github.com/crazycodeboy/react-native-splash-screen/blob/master/LICENSE)**
+
+**[react-native-splash-screen(iOS android启动白屏)](https://www.jianshu.com/p/bf907cdbcfad?_wv=1031)
